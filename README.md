@@ -1,9 +1,10 @@
 ### Olá Mundo! Eu sou a Maeve.
-Meu nome na verdade é Ingrid, sou conhecida nos jogos e na twitch como Maeve.
+- Meu nome na verdade é Ingrid, sou conhecida nos jogos e na twitch como Maeve.
+
+- Atualmente trabalho como Suporte TI, estudo programação focada em front-end e aprendendo javascript.
 
 <img src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/hrColorAnimation.gif" width=50%>
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=maevesystem&show_icons=true&count_private=true&theme=radical)](https://github.com/maevesystem) <div>
+<div>
   <a href="https://github.com/maevesystem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maevesystem&layout=compact&langs_count=7&theme=radical"/>
 </div>

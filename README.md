@@ -24,4 +24,6 @@
 </div>
 <img src="https://pa1.aminoapps.com/6467/434523dd5371dab33fa62e00b5bb46defe306f0c_00.gif" width="15%">
 
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/1681600/extras/FruitTreeGif.gif?t=1698936276"  width="15%">
+
 ![](https://komarev.com/ghpvc/?username=maevesystem&color=blue&style=flat-square&label=PROFILE+VIEWS)

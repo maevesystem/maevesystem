@@ -1,7 +1,7 @@
 ### Olá Mundo! Eu sou a Maeve.
-- Meu nome na verdade é Ingrid, sou conhecida nos jogos e na twitch como Maeve.
+- Meu nome na verdade é Ingrid, sou conhecida nos jogos como Maeve.
 
-- Atualmente trabalho como Suporte TI, estudo programação focada em front-end e aprendendo javascript.
+- Atualmente trabalho como Suporte TI, estudo programação focada em front-end.
 
 <img src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/hrColorAnimation.gif" width=50%>
 <div>
@@ -10,11 +10,9 @@
 </div>
 
 
-<div> 
-  <a href="https://www.twitch.tv/maevessz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://www.instagram.com/maevesystem/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<div>
+  <a href="https://www.instagram.com/gridnunes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ingrid-nunes-2849a81b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://discord.gg/U3fmksK3bB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
 
 <div style="display: inline_block"><br>
